@@ -1,0 +1,5 @@
+preprocessor = joblib.load(
+
+    "models/preprocessor.pkl"
+
+)
