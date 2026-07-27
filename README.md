@@ -36,5 +36,6 @@ This enterprise data science project analyzes customer churn across **200,000 su
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Saturn-sj-10/customer-churn-analysis.git
+git clone [https://github.com/Saturn-sj-10/customer-churn-analysis.git](https://github.com/Saturn-sj-10/customer-churn-analysis.git)
 cd customer-churn-analysis
+```
